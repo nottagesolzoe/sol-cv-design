@@ -1,0 +1,16 @@
+{
+  "name": "EXAMPLE CANDIDATE",
+  "headline": "AI & PUBLIC POLICY | COMPUTATIONAL SOCIAL SCIENCE",
+  "phones": ["+00 000 000 0000", "+00 111 111 1111"],
+  "links": [{"label": "Email", "url": "mailto:example@example.com"}, {"label": "Portfolio", "url": "https://example.com"}],
+  "sections": [
+    {"title": "Education", "entries": [{"title": "MSc, Example Program | Example University", "date": "2025–2026", "details": ["Example specialization. Replace with verified candidate facts."]}]},
+    {"title": "Work Experience", "entries": [{"title": "Research Analyst | Example Organization", "date": "2023–Present", "supervisor": "Example Supervisor", "details": ["Describe a verified contribution, its methods, scope, and result."]}]},
+    {"title": "Consulting Experience", "entries": [{"title": "Example Consulting Project", "date": "2023", "details": ["State the project and candidate's actual responsibility."]}]},
+    {"title": "Teaching Experience", "entries": [{"title": "Teaching Assistant | Example University", "date": "2022–2023", "supervisor": "Example Instructor", "details": ["Course title and verified teaching responsibilities."]}]},
+    {"title": "Research Experience", "entries": [{"title": "Research Assistant | Example Institute", "date": "2022", "details": ["Research question, methods, and actual contribution."]}]},
+    {"title": "Publications and Policy Reports", "entries": [{"title": "Example publication title", "date": "2026", "url": "https://example.com/publication", "details": ["Example Author. Example Journal. Fictional template entry."]}, {"title": "Another example publication", "date": "2025", "details": ["Keep this work separate from the preceding publication."]}]},
+    {"title": "Conferences and Seminars", "entries": [{"title": "Example policy conference", "date": "Jun 2026", "details": ["Speaker. Describe the actual session and audience."]}, {"title": "Another example seminar", "date": "May 2025", "details": ["Keep each event as an individual entry."]}]},
+    {"title": "Technical Skills", "entries": [{"title": "Programming and tools", "details": ["List verified tools only."]}, {"title": "AI and text", "details": ["List verified LLM, NLP, and research methods only."]}]}
+  ]
+}

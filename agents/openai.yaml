@@ -1,0 +1,6 @@
+interface:
+  display_name: "Sol CV Design"
+  short_description: "CV editorial de una columna en rojo y violeta"
+  default_prompt: "Use $sol-cv-design to create or update my two-page CV with consistent formatting and verified facts."
+policy:
+  allow_implicit_invocation: true
